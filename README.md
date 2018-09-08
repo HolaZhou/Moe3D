@@ -6,7 +6,7 @@
 > A soft renderder in VS2017
 
 ## Demo  
-![](./Texture/1.png)
+![avatar](./Texture/1.png)
 
 ---
 ## Feature
