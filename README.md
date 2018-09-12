@@ -11,7 +11,9 @@
 ---
 ## Feature
 - light
-- render a box with textures
+- texture
+- material
+- render a box 
 
 ---
 ## Usage
